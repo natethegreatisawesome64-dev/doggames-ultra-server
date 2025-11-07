@@ -1,0 +1,10 @@
+{
+  "name": "doggames-ultra",
+  "version": "1.0.0",
+  "description": "DogGames Ultra EaglercraftX Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
